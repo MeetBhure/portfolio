@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const http = axios.create({
-    baseURL: "https://www.meetbhure.tech/api",
+    baseURL: process.env.NEXT_PUBLIC_API_URL,
     headers: {
         Accept: "application/json",
         "Access-Control-Allow-Origin": "*",

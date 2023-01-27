@@ -90,7 +90,7 @@ const MobileNavigation = ({ changeState }) => {
               </Link>
             ) : (
               <ScrollLink
-                activeClass="text-primary"
+                activeClass="text-primary" 
                 to="section-resume"
                 spy={true}
                 smooth="easeInQuad"

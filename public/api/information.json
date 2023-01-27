@@ -4,7 +4,7 @@
     "fullName": "Meet Bhure",
     "thumbImage": "/images/formal-image.png",
     "largeImage": "/images/about-image.jpg",
-    "bio": "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
+    "bio": "I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences.",
     "age": 23,
     "nationality": "Indian",
     "languages": [
@@ -17,11 +17,9 @@
     "address": "14, Sankeswar society, Bhestan, Surat, Gujarat ,India",
     "freelance": "Available",
     "socialAddress": {
-        "facebook": "https://facebook.com",
         "twitter": "https://twitter.com/meet_bhure",
-        "github": "https://github.com",
-        "linkedin": "https://www.linkedin.com/in/meet-bhure-7b993a15b",
-        "dribbble": "https://dribbble.com"
+        "github": "https://github.com/MeetBhure",
+        "linkedin": "https://www.linkedin.com/in/meet-bhure-7b993a15b"
     },
     "phoneNumbers": [
         "+91-8200077172"
