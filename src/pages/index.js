@@ -31,7 +31,7 @@ const Homepage2 = ({ posts }) => {
         <meta property="og:image" content="https://example.com/image.jpg"/>
         <meta property="og:url" content="https://example.com" />
         <meta property="og:type" content="website" />
-        {/* <title>Bieber - React Personal Portfolio Template</title> */}
+        <title>Meet Bhure - Your Software developer/Tech Guy</title>
       </Head>
 
       {/* Start Hero Section */}
