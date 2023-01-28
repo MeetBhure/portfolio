@@ -19,7 +19,19 @@ const Homepage2 = ({ posts }) => {
   return (
     <Layout blurred>
       <Head>
-        <title>Bieber - React Personal Portfolio Template</title>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, 
+          shrink-to-fit=no"
+        />
+        <meta name="description" content="JavaScript wizard, chaotic good" />
+        <meta name="keyword" content="portfolio, javascript, developer"></meta>
+        <meta property="og:title" content="Myrtis Beaverdam | Front End Web Developer"/>
+        <meta property="og:description" content="JavaScript wizard, chaotic good" />
+        <meta property="og:image" content="https://example.com/image.jpg"/>
+        <meta property="og:url" content="https://example.com" />
+        <meta property="og:type" content="website" />
+        {/* <title>Bieber - React Personal Portfolio Template</title> */}
       </Head>
 
       {/* Start Hero Section */}
