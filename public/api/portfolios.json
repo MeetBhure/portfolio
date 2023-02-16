@@ -42,15 +42,5 @@
         "videogallery": false,
         "url": "http://thebarra.com.au/",
         "filters": ["html", "react"]
-    },
-    {
-        "id": 5,
-        "title": "",
-        "subtitle": "It's a restaurant site",
-        "coverimage": "/images/portfolios/thebarra.png",
-        "imagegallery": false,
-        "videogallery": false,
-        "url": "http://thebarra.com.au/",
-        "filters": ["html", "react"]
     }
 ]
