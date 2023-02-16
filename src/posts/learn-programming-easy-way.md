@@ -2,8 +2,8 @@
 title: "Learn programming easy way"
 date: "2022-05-07T20:31:59.889Z"
 category: ["Technology"]
-cover: "/images/blog/blog-image-3.jpg"
-thumb: "/images/blog/sm/blog-image-3.jpg"
+cover: "/images/blog/programming.jpeg"
+thumb: "/images/blog/programming.jpeg"
 ---
 
 Blanditiis corporis [Link Text](https://themeforest.net) accusamus accusamus. **Bold Text** sed quasi neque rerum deserunt eum sint ad. Et excepturi quia ut qui. Dolorem et et distinctio rerum. Eveniet suscipit eveniet recusandae. Vero qui _Italic Text_ quas aliquam. Expedita saepe non et velit voluptas `npm run install` quidem ut dignissimos. Et architecto ex et iste. Qui dolor sunt magnam eos mollitia. Delectus voluptas sed ut et blanditiis. Quos perferendis distinctio dolor eligendi. Sequi dolores velit et at inventore vero culpa similique.

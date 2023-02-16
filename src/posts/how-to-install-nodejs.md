@@ -2,8 +2,8 @@
 title: "How to install NodeJs"
 date: "2022-04-08T20:31:59.889Z"
 category: ["Javascript"]
-cover: "/images/blog/blog-image-4.jpg"
-thumb: "/images/blog/sm/blog-image-4.jpg"
+cover: "/images/blog/nodejs.jpeg"
+thumb: "/images/blog/nodejs.jpg"
 ---
 
 Blanditiis corporis [Link Text](https://themeforest.net) accusamus accusamus. **Bold Text** sed quasi neque rerum deserunt eum sint ad. Et excepturi quia ut qui. Dolorem et et distinctio rerum. Eveniet suscipit eveniet recusandae. Vero qui _Italic Text_ quas aliquam. Expedita saepe non et velit voluptas `npm run install` quidem ut dignissimos. Et architecto ex et iste. Qui dolor sunt magnam eos mollitia. Delectus voluptas sed ut et blanditiis. Quos perferendis distinctio dolor eligendi. Sequi dolores velit et at inventore vero culpa similique.

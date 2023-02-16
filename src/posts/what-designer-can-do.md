@@ -2,8 +2,8 @@
 title: "What designer can do"
 date: "2022-05-10T20:31:59.889Z"
 category: ["Trend"]
-cover: "/images/blog/blog-image-1.jpg"
-thumb: "/images/blog/sm/blog-image-1.jpg"
+cover: "/images/blog/designer.jpeg"
+thumb: "/images/blog/designer.jpeg"
 ---
 
 Blanditiis corporis [Link Text](https://themeforest.net) accusamus accusamus. **Bold Text** sed quasi neque rerum deserunt eum sint ad. Et excepturi quia ut qui. Dolorem et et distinctio rerum. Eveniet suscipit eveniet recusandae. Vero qui _Italic Text_ quas aliquam. Expedita saepe non et velit voluptas `npm run install` quidem ut dignissimos. Et architecto ex et iste. Qui dolor sunt magnam eos mollitia. Delectus voluptas sed ut et blanditiis. Quos perferendis distinctio dolor eligendi. Sequi dolores velit et at inventore vero culpa similique.
