@@ -1,16 +1,14 @@
 [
     {
         "id": 1,
-        "title": "Bachelor of Sciences",
+        "title": "Bachelor of Science: Information Technology",
         "meta": "Parul University",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
         "year": "2017 - 2021"
     },
     {
         "id": 2,
         "title": "Higher School Graduation",
         "meta": "Gurukrupa Sankul",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
         "year": "2015 - 2017"
     }
 ]

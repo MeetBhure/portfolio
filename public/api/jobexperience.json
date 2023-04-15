@@ -3,14 +3,14 @@
         "id": 1,
         "title": "Junior Software Developer",
         "meta": "Smartinfosys.net",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2021 - 2022"
+        "text": "Collaborating with designers and other developers to implement and maintain web application features and functionality",
+        "year": "2020 - 2021"
     },
     {
         "id": 2, 
         "title": "Software Developer/Freelancer",
-        "meta": "Freelancer on Upwork.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2022 - Current"
+        "meta": "Freelancer",
+        "text": "Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.",
+        "year": "2021 - Current"
     }
 ]

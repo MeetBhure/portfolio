@@ -112,7 +112,7 @@ const AboutSection = () => {
               </li>
             )}
           </ul>
-          <a href="/MeetResume.pdf" className="btn mt-3">
+          <a href="/Meet's_CV.pdf" className="btn mt-3">
             <span>Download Resume</span>
           </a>
         </motion.div>

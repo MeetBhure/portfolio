@@ -30,7 +30,7 @@
         "coverimage": "/images/portfolios/aigenerated.png",
         "imagegallery": false,
         "videogallery": false,
-        "url": "https://ai-image.zerolabs.tech/create-post",
+        "url": "https://ai-image.zerolabs.tech",
         "filters": ["html", "react"]
     },
     {
